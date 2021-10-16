@@ -1,4 +1,4 @@
 # Install Go SDK
 
-#go #SDK
+[[go]] [[SDK]]
 
