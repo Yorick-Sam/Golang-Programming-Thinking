@@ -3,3 +3,36 @@
 
 
 ![](https://raw.githubusercontent.com/Yorick-Sam/Golang-Programming-Thinking/master/image/20211016124205.png)
+
+
+  
+
+```java
+
+public void main(Objects ... args) {
+
+System.out.println("app");
+
+}
+
+```
+
+  
+
+```GO
+
+package main
+
+  
+
+import "fmt"
+
+  
+
+func main() {
+
+fmt.Println("Hello World!")
+
+}
+
+```
